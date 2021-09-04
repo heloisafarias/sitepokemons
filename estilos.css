@@ -1,0 +1,26 @@
+body {
+	font-family: "Verdana";
+	background-image: url(fundo.jpg);
+}
+h2 {
+	text-align: center;
+}
+img.pkmn {
+	width: 150px;
+}
+
+
+img.icon {
+	width: 45px;
+}
+tr:hover {
+	background-color: #c3e6e5;
+}
+table {
+	text-align: center;
+	background-color: white;
+
+#credito {
+	font-size: 12px;
+}
+
